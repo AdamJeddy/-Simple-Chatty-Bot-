@@ -1,4 +1,5 @@
 # Simple Java ChatBot
+![Banner](javabot_Banner_github.png?raw=true "Banner")
 This is code from one of the projects I've worked on through the JetBrains Academy 
 
 Project description: Creating a Simple Chat Bot in Java
