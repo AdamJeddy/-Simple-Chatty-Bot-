@@ -1,4 +1,4 @@
-# Simple-ChatBot
+# Simple Java ChatBot
 This is code from one of the projects I've worked on through the JetBrains Academy 
 
 Project description: Creating a Simple Chat Bot in Java
