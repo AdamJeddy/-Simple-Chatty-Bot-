@@ -7,7 +7,7 @@ public class SimpleBot {
 
     public static void main(String[] args) 
     {
-        greet(); // change it as you need
+        greet();
         remindName();
         guessAge();
         count();
