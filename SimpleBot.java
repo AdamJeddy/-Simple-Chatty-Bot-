@@ -70,5 +70,8 @@ public class SimpleBot {
         }//while end
     }//test end
 
-    static void end() { System.out.println("Congratulations, have a nice day!"); // Do not change this text }//end end :)
+    static void end() 
+    { 
+        System.out.println("Congratulations, have a nice day!");
+    }//end end :)
 }//class end
